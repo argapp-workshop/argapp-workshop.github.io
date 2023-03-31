@@ -1,0 +1,63 @@
+===========================================================================================
+Call for Papers
+===========================================================================================
+Arg&App 2023
+The First International Workshop on Argumentation and Applications
+
+https://argapp-workshop.github.io/
+
+Co-located with the 20th International Conference on Principles of Knowledge Representation and Reasoning, KR 2023, September 2-8, 2023, Rhodes, Greece (https://kr.org/KR2023/).
+
+
+Description
+===========================================================================================
+Formal models of argumentation have received a lot of attention, in particular in the Knowledge Representation and Reasoning community. Various applications of argumentation (cyber-democracy, explainable AI, law, medicine, multi-agent systems, public policy making, sustainable development, etc) exist, which benefit from the advances on the theoretical aspects of argumentation, while highlighting new theoretical issues. An important aspect of research on applied argumentation is the development of software related to these argumentation formalisms. The goal of this workshop is to emphasize the efforts of the community to strengthen the links between formal works on argumentation, their implementations and these domains of application.
+
+The workshop specifically welcomes preliminary works on the above topics, more particularly on:
+* Experimental evaluation methods for argument-based applications
+* User-oriented evaluation and empirical testing of argument-based applications
+* Argumentation and online disinformation
+* Web-based systems and argument mining
+* Dialogue systems and strategic aspects of argumentation
+* Design principles and software engineering aspects of tools for formal argumentation
+* Benchmark generation and empirical studies on real-world argumentation graphs
+* System descriptions of tools for formal argumentation
+* Argumentation in multi-agent systems
+* Argumentation and law
+* Argumentation and medicine
+
+The program of the workshop will be made of one invited talk, followed by a series of contributed talks selected through single-blind peer review. Software descriptions are also welcome. Time will be given to demonstration of applications. The workshop proceedings will be published as CEUR Workshop Proceedings (https://ceur-ws.org).
+
+Keynote Speaker
+===========================================================================================
+Antonis Kakas (University of Cyprus)
+Title: "The Practical Side of Argumentation"
+
+Important Dates
+===========================================================================================
+Paper submission deadline: 	May 31, 2023
+Notification of acceptance:	July 4, 2023
+Camera-ready version:	    August 4, 2023
+Registration deadline:      TBA  
+Workshop:	                TBA (September 2, 3 or 4 2023)
+
+
+Submission
+===========================================================================================
+We invite papers, which have to be in English and formatted according to the CEUR style (https://argapp-workshop.github.io/ArgApp_Latex_Template.zip), in the following two categories:
+
+* Full technical papers (12 pages max., including references) are expected to report on new research that makes a substantial contribution to the field.
+* Position papers (6 pages max., including references) can report on research in progress or other issues of interest to the community. Examples of work suitable for position paper submissions include: novel ideas whose scope is not large enough for a full paper; important implementation techniques; novel interesting benchmark problems; short experimental studies; interesting applications that are not yet completely solved or analysed; position or challenge papers.
+
+Submission are handled through the EasyChair conference management system (https://easychair.org/conferences/?conf=argapp2023). 
+
+All papers will be subject to blind peer review based on the standard criteria of relevance, significance of results, originality of ideas, soundness, and quality of the presentation.
+
+All accepted papers will be published in the workshop proceedings via CEUR (http://ceur-ws.org), and will be presented at the workshop. At least one author of each accepted paper must register for the workshop (through the KR 2023 website https://kr.org/KR2023/) and present the contribution.
+
+Organizers
+===========================================================================================
+* Oana Cocarascu (King’s College London)
+* Sylvie Doutre (IRIT, Université Toulouse Capitole)
+* Jean-Guy Mailly (LIPADE, Université Paris Cité)
+* Antonio Rago (Imperial College London)
