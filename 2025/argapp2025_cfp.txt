@@ -1,0 +1,65 @@
+=====================================================
+Call for Papers
+=====================================================
+Arg&App 2025: The Second International Workshop on Argumentation and Applications
+https://argapp-workshop.github.io/2025/
+
+Co-located with the 22nd International Conference on Principles of Knowledge Representation and Reasoning, KR 2025, November 11-17, 2025, Melbourne, Australia (https://kr.org/KR2025/)
+
+Submission deadline:  July 23, 2025
+=====================================================
+Formal models of argumentation have received much attention of late. This has resulted in various applications of argumentation, which benefit from the advances on the theoretical aspects of argumentation, while highlighting new theoretical issues. Further, applications of argumentation often branch into other areas of AI. The Arg&App Workshop series seeks to bring together researchers working on the definition and evaluation of methods in these applications, as well as the development of software therefor, which has often been deployed in real-world contexts.
+
+The workshop specifically welcomes (possibly preliminary or incremental) works covering:
+* Novel applications of argumentation-based methods
+* Experimental evaluation methods for argument-based applications
+* User-oriented evaluation and empirical testing of argument-based applications
+* Design principles and software engineering aspects of tools for formal argumentation
+* Benchmark generation and empirical studies on real-world argumentation graphs
+* System descriptions of tools for formal argumentation
+
+The domains in which the methods are applied may include, but are not limited to:
+* Online disinformation
+* Web-based systems
+* Dialogue systems
+* Law
+* Cyber-democracy
+* Medicine
+* Public policy
+
+We also encourage papers which establish links between argumentation and other areas of AI, e.g.:
+* Machine learning, especially large language models
+* Argument mining
+* Multi-agent systems
+* Planning and scheduling
+
+The program of the workshop will consist of an invited talk, followed by a series of contributed talks selected through single-blind peer review. Software descriptions are also welcome. Time will be given to demonstration of applications.
+
+Keynote Speaker
+=====================================================
+Beishui Liao (Zhejiang University, China)
+Title: "Argumentation Enabled Explainable AI"
+
+Important Dates
+=====================================================
+Paper submission deadline: July 23, 2025
+Notification of acceptance: August 27, 2025
+Registration deadline: September 11, 2025 
+Workshop: TBA (November 11, 12 or 13, 2025)
+
+Submission
+=====================================================
+We invite papers, which have to be in English and formatted according to the CEUR style (https://argapp-workshop.github.io/2025/ArgApp_Latex_Template.zip), in the following two categories:
+
+* Full technical papers (12 pages max., including references) are expected to report on new research that makes a substantial contribution to the field.
+* Position papers (6 pages max., including references) can report on research in progress or other issues of interest to the community. Examples of work suitable for position paper submissions include: novel ideas whose scope is not large enough for a full paper; important implementation techniques; novel interesting benchmark problems; short experimental studies; interesting applications that are not yet completely solved or analysed; position or challenge papers.
+
+Submission are handled through the EasyChair conference management system (https://easychair.org/conferences/?conf=argapp2025).
+All papers will be subject to blind peer review based on the standard criteria of relevance, significance of results, originality of ideas, soundness, and quality of the presentation. All accepted papers will be published in the workshop proceedings via CEUR, and will be presented at the workshop. At least one author of each accepted paper must register for the workshop (through the KR 2025 website https://kr.org/KR2025/ ) and present the contribution.
+
+Organizers
+=====================================================
+* Oana Cocarascu (King's College London)
+* Sylvie Doutre (IRIT, Université Toulouse Capitole)
+* Jean-Guy Mailly (IRIT, Université Toulouse Capitole)
+* Antonio Rago (Imperial College London)
